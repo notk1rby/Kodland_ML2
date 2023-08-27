@@ -1,1 +1,1 @@
-# Kodland_ML2
+print("Test");
